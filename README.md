@@ -69,17 +69,14 @@ The system is built with classical, fully explainable NLP techniques — **TF-ID
 ## 📁 Repository Contents
 
 ```
-├── AI_Job_Seeker_Project_Report.docx     # Full project report (IILM format)
-├── AI_Job_Seeker_Presentation.pptx       # Presentation deck
-├── app.py                                # Flask backend (routes, file handling)
-├── matcher.py                            # AI/NLP core (TF-IDF, cosine similarity, keyword gap)
-├── templates/
-│   └── index.html                        # Upload form + results UI
+├── Internship_Report_Suchet_Khemraj.pdf         # Full project/internship report
+├── AI_Job_Seeker_Presentation.pdf                # Presentation deck
+├── Suchet Chetan Khemraj-Internship Certificate.pdf   # Completion certificate
 ├── screenshots/
-│   ├── screenshot_home.png               # Application home page
-│   ├── screenshot_result.png             # Match score + missing keywords result
-│   └── architecture.png                  # System architecture diagram
-└── README.md                             # This file
+│   ├── screenshot_home.png                       # Application home page
+│   ├── screenshot_result.png                     # Match score + missing keywords result
+│   └── architecture.png                          # System architecture diagram
+└── README.md                                     # This file
 ```
 
 ---
